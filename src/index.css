@@ -2,9 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html{
+  height: 100%;
+}
+
 body {
   margin: 0;
-  height: 100vh;
+  height: 100%;
 }
 
 #root {
